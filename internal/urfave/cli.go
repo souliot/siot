@@ -1,7 +1,7 @@
 package urfave
 
 import (
-	"siot/internal/basic"
+	"github.com/souliot/siot/internal/basic"
 
 	"github.com/urfave/cli/v2"
 )
