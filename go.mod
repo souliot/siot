@@ -1,4 +1,4 @@
-module siot
+module github.com/souliot/siot
 
 go 1.17
 

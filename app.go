@@ -2,7 +2,8 @@ package main
 
 import (
 	"os"
-	"siot/internal/urfave"
+
+	"github.com/souliot/siot/internal/urfave"
 
 	"github.com/urfave/cli/v2"
 )
